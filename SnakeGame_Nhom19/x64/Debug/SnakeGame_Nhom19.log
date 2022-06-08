@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\KTLT\SnakeGame_Nhom19\SnakeGame_Nhom19\Source.cpp(110,14): warning C4309: 'initializing': truncation of constant value
+F:\KTLT\SnakeGame_Nhom19\SnakeGame_Nhom19\Source.cpp(618,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\KTLT\SnakeGame_Nhom19\SnakeGame_Nhom19\Source.cpp(216): warning C4715: 'Move': not all control paths return a value
+F:\KTLT\SnakeGame_Nhom19\SnakeGame_Nhom19\Source.cpp(295): warning C4715: 'check': not all control paths return a value
+  SnakeGame_Nhom19.vcxproj -> F:\KTLT\SnakeGame_Nhom19\x64\Debug\SnakeGame_Nhom19.exe
